@@ -11,6 +11,8 @@ This project demonstrates how to use Azure DevOps, GitHub Actions, Terraform, an
 - ARM Templates
 
 ## 📁 Project Structure
+![Architecture Diagram](architecture-diagram.png)
+
 
 
 
