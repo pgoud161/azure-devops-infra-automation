@@ -1,17 +1,30 @@
-# Azure DevOps Infrastructure Automation
+# Azure DevOps Infrastructure Automation Project 🚀
 
-This project demonstrates how to use Azure DevOps, GitHub Actions, Terraform, and automation scripts to provision Azure infrastructure in a scalable and efficient way.
+This project demonstrates an end-to-end infrastructure automation workflow using:
+- **Terraform** for provisioning Azure resources
+- **PowerShell** and **Python** scripts for resource management and automation
+- **Azure DevOps Pipelines** and **GitHub Actions** for CI/CD
 
-## 🔧 Tools & Technologies
-- Azure DevOps Pipelines
-- GitHub Actions
+## 🔧 Tech Stack Used
 - Terraform
+- Azure CLI / Azure RM
 - PowerShell
 - Python
-- ARM Templates
+- Azure DevOps
+- GitHub Actions
+- JSON ARM templates
 
-## 📁 Project Structure
+---
+
+## 📊 Project Architecture
+
 ![Architecture Diagram](architecture-diagram.png)
+
+---
+
+## 📁 Repo Structure
+
+
 
 
 
