@@ -24,6 +24,16 @@ This project demonstrates an end-to-end infrastructure automation workflow using
 
 ## 📁 Repo Structure
 
+---
+
+## ⭐️ About Me
+
+I’m a passionate DevOps Engineer with 5+ years of experience in automating cloud infrastructure across AWS and Azure.  
+If you found this helpful or want to collaborate, feel free to connect!
+
+[🔗 LinkedIn](https://www.linkedin.com/in/parnika-goud-bingi-3a397a239/) | 📫 parnikagoud15@gmail.com
+
+
 
 
 
